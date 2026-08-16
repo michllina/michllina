@@ -17,8 +17,5 @@ My name is Michelle (she/her), and I'm an undergraduate Data Science major who�
 
 - ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
-[!["Linkedin Profile"[<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/ddb13df8-9c6b-477d-8d2e-58aa0386a401" /> ([1])]]
-
-[1]:
-[www.linkedin.com/in/michelle-mendoza-95836a2ab]
+[<img width="32" height="32" alt="LinkedinProfile" src="https://github.com/user-attachments/assets/ddb13df8-9c6b-477d-8d2e-58aa0386a401"](www.linkedin.com/in/michelle-mendoza-95836a2ab)
 
