@@ -12,15 +12,15 @@ I love how, although data science requires logical technical skills, data can be
 
 ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
+## 💬 Programming Languages:
+- Java
+- Python
+
 ## 🔭 What I'm currently working on:
 
 - Certifying my ability to use SQL through Coursera's "SQL for Data Science" course!
 - Learning how to combine my love of statistics with education reform.
 - Introducing myself to C++ as a second language
-
-## 💬 Programming Languages:
-- Java
-- Python
 
 ##
 
