@@ -6,7 +6,11 @@
 
 My name is Michelle (she/her), and I'm an undergraduate Data Science major who’s minoring in Education at UCI. 
 
-Before I was a Data Science major, I was actually in Environmental Engineering! And even before that, I was heavily involved in all things creative writing and public speaking. However, during my first year, I realized I loved learning about statistics a LOT more and switched over! I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
+Before I was a Data Science major, I was actually in Environmental Engineering! And even before that, I was heavily involved in all things creative writing and public speaking. However, during my first year, I realized I loved learning about statistics a LOT more and switched over!
+
+I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
+
+- ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
 ## 🔭 What I'm currently working on:
 
@@ -17,8 +21,6 @@ Before I was a Data Science major, I was actually in Environmental Engineering! 
 ## 💬 Programming Languages:
 - Java
 - Python
-
-- ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
 ##
 
