@@ -17,4 +17,6 @@ My name is Michelle (she/her), and I'm an undergraduate Data Science major who�
 
 - ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
+
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/michelle-mendoza-95836a2ab)
+
