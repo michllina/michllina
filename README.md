@@ -10,7 +10,7 @@ Before I was a Data Science major, I was actually in Environmental Engineering! 
 
 I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
 
-- ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
+⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
 ## 🔭 What I'm currently working on:
 
