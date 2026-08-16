@@ -4,7 +4,9 @@
 **michllina/michllina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Michelle (she/her), and I'm an undergraduate Data Science major who’s minoring in Education at UCI. Before I was a Data Science major, I was actually in Environmental Engineering! And even before that, I was heavily involved in all things creative writing and public speaking. However, during my first year, I realized I loved learning about statistics a LOT more and switched over! I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
+My name is Michelle (she/her), and I'm an undergraduate Data Science major who’s minoring in Education at UCI. 
+
+Before I was a Data Science major, I was actually in Environmental Engineering! And even before that, I was heavily involved in all things creative writing and public speaking. However, during my first year, I realized I loved learning about statistics a LOT more and switched over! I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
 
 ## 🔭 What I'm currently working on:
 
@@ -17,5 +19,8 @@ My name is Michelle (she/her), and I'm an undergraduate Data Science major who�
 
 - ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
-[<img width="32" height="32" alt="LinkedinProfile" src="https://github.com/user-attachments/assets/ddb13df8-9c6b-477d-8d2e-58aa0386a401"](www.linkedin.com/in/michelle-mendoza-95836a2ab)
+##
 
+<a href="https://www.linkedin.com/in/michelle-mendoza-95836a2ab/" target="_blank">
+  <img width="40" height="40" alt="LinkedinProfile" src="https://github.com/user-attachments/assets/ddb13df8-9c6b-477d-8d2e-58aa0386a401">
+</a>
