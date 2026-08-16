@@ -4,7 +4,7 @@
 **michllina/michllina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Michelle (she/her) and I'm an undergraduate Data Science major and Education minor at UCI. Before I was a Data Science major, I was actually in Environmental Engineering! However, during my first year I realized I loved learning about statistics a LOT more and switched over! I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
+My name is Michelle (she/her), and I'm an undergraduate Data Science major who’s minoring in Education at UCI. Before I was a Data Science major, I was actually in Environmental Engineering! And even before that, I was heavily involved in all things creative writing and public speaking. However, during my first year, I realized I loved learning about statistics a LOT more and switched over! I love how, although data science requires logical technical skills, data can be used to tell stories that make positive impacts through hard evidence in numbers, visuals, etc. I'm so excited to acquire more skills in data analysis, data organization, programming, and everything else that comes with it.
 
 ## 🔭 What I'm currently working on:
 
@@ -16,3 +16,5 @@ My name is Michelle (she/her) and I'm an undergraduate Data Science major and Ed
 - Java, Python
 
 - ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
+
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/michelle-mendoza-95836a2ab)
