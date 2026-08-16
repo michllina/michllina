@@ -14,8 +14,9 @@ Before I was a Data Science major, I was actually in Environmental Engineering! 
 - Learning how to combine my love of statistics with education reform.
 - Introducing myself to C++ as a second language
 
-- 💬 Programming Languages:
-- Java, Python
+## 💬 Programming Languages:
+- Java
+- Python
 
 - ⚡ Fun fact: I love Pokémon cards and collect Sylveons!
 
